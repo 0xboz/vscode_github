@@ -23,7 +23,7 @@ sudo apt install -y git
 ## Create an empty repo on GitHub
 
 **DO NOT create `README.md` and `.gitignore`.**
-Copy the **SSH link*** from this repo.
+Copy the **SSH link** from this repo.
 
 ## Create the repo on the local machine
 
